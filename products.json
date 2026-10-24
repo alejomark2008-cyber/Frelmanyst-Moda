@@ -1,0 +1,1529 @@
+[
+  {
+    "id": "chaquetas-cuero-oversize-dama-01",
+    "name": "Chaquetas cuero oversize dama · Vino tinto",
+    "family": "Chaquetas cuero oversize dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Cuero oversize",
+    "color": "Vino tinto",
+    "price": 115000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-oversize-dama-01-1.jpg",
+      "assets/chaquetas-cuero-oversize-dama-01-2.jpg"
+    ],
+    "description": "Chaquetas cuero oversize dama. Variante Vino tinto. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero oversize dama.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-oversize-dama-02",
+    "name": "Chaquetas cuero oversize dama · Negro",
+    "family": "Chaquetas cuero oversize dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Cuero oversize",
+    "color": "Negro",
+    "price": 115000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-oversize-dama-02-1.jpg",
+      "assets/chaquetas-cuero-oversize-dama-02-2.jpg"
+    ],
+    "description": "Chaquetas cuero oversize dama. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero oversize dama.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-oversize-dama-03",
+    "name": "Chaquetas cuero oversize dama · Café",
+    "family": "Chaquetas cuero oversize dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Cuero oversize",
+    "color": "Café",
+    "price": 115000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-oversize-dama-03-1.jpg",
+      "assets/chaquetas-cuero-oversize-dama-03-2.jpg"
+    ],
+    "description": "Chaquetas cuero oversize dama. Variante Café. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero oversize dama.pdf"
+  },
+  {
+    "id": "chaqueta-polar-importada-01",
+    "name": "Chaqueta polar importada · Azul oscuro",
+    "family": "Chaqueta polar importada",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Polar importada",
+    "color": "Azul oscuro",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaqueta-polar-importada-01-1.jpg",
+      "assets/chaqueta-polar-importada-01-2.jpg"
+    ],
+    "description": "Chaqueta polar importada. Variante Azul oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta polar importada.pdf"
+  },
+  {
+    "id": "chaqueta-polar-importada-02",
+    "name": "Chaqueta polar importada · Negro",
+    "family": "Chaqueta polar importada",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Polar importada",
+    "color": "Negro",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaqueta-polar-importada-02-1.jpg",
+      "assets/chaqueta-polar-importada-02-2.jpg"
+    ],
+    "description": "Chaqueta polar importada. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta polar importada.pdf"
+  },
+  {
+    "id": "chaqueta-polar-importada-03",
+    "name": "Chaqueta polar importada · Beige",
+    "family": "Chaqueta polar importada",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Polar importada",
+    "color": "Beige",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaqueta-polar-importada-03-1.jpg",
+      "assets/chaqueta-polar-importada-03-2.jpg"
+    ],
+    "description": "Chaqueta polar importada. Variante Beige. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta polar importada.pdf"
+  },
+  {
+    "id": "chaqueta-polar-importada-04",
+    "name": "Chaqueta polar importada · Verde militar",
+    "family": "Chaqueta polar importada",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Polar importada",
+    "color": "Verde militar",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaqueta-polar-importada-04-1.jpg",
+      "assets/chaqueta-polar-importada-04-2.jpg"
+    ],
+    "description": "Chaqueta polar importada. Variante Verde militar. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta polar importada.pdf"
+  },
+  {
+    "id": "sudaderas-baggy-hombre-01",
+    "name": "Sudaderas baggy hombre · Gris",
+    "family": "Sudaderas baggy hombre",
+    "gender": "hombre",
+    "category": "Sudaderas",
+    "subcategory": "Baggy",
+    "color": "Gris",
+    "price": 70000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/sudaderas-baggy-hombre-01-1.jpg",
+      "assets/sudaderas-baggy-hombre-01-2.jpg"
+    ],
+    "description": "Sudaderas baggy hombre. Variante Gris. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "sudaderas baggy hombre.pdf"
+  },
+  {
+    "id": "sudaderas-baggy-hombre-02",
+    "name": "Sudaderas baggy hombre · Gris estampado",
+    "family": "Sudaderas baggy hombre",
+    "gender": "hombre",
+    "category": "Sudaderas",
+    "subcategory": "Baggy",
+    "color": "Gris estampado",
+    "price": 70000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/sudaderas-baggy-hombre-02-1.jpg",
+      "assets/sudaderas-baggy-hombre-02-2.jpg"
+    ],
+    "description": "Sudaderas baggy hombre. Variante Gris estampado. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "sudaderas baggy hombre.pdf"
+  },
+  {
+    "id": "sudaderas-baggy-hombre-03",
+    "name": "Sudaderas baggy hombre · Beige",
+    "family": "Sudaderas baggy hombre",
+    "gender": "hombre",
+    "category": "Sudaderas",
+    "subcategory": "Baggy",
+    "color": "Beige",
+    "price": 70000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/sudaderas-baggy-hombre-03-1.jpg",
+      "assets/sudaderas-baggy-hombre-03-2.jpg"
+    ],
+    "description": "Sudaderas baggy hombre. Variante Beige. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "sudaderas baggy hombre.pdf"
+  },
+  {
+    "id": "sudaderas-baggy-hombre-04",
+    "name": "Sudaderas baggy hombre · Verde militar",
+    "family": "Sudaderas baggy hombre",
+    "gender": "hombre",
+    "category": "Sudaderas",
+    "subcategory": "Baggy",
+    "color": "Verde militar",
+    "price": 70000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/sudaderas-baggy-hombre-04-1.jpg",
+      "assets/sudaderas-baggy-hombre-04-2.jpg"
+    ],
+    "description": "Sudaderas baggy hombre. Variante Verde militar. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "sudaderas baggy hombre.pdf"
+  },
+  {
+    "id": "sudaderas-baggy-hombre-05",
+    "name": "Sudaderas baggy hombre · Negro",
+    "family": "Sudaderas baggy hombre",
+    "gender": "hombre",
+    "category": "Sudaderas",
+    "subcategory": "Baggy",
+    "color": "Negro",
+    "price": 70000,
+    "sizes": [
+      "Única"
+    ],
+    "images": [
+      "assets/sudaderas-baggy-hombre-05-1.jpg",
+      "assets/sudaderas-baggy-hombre-05-2.jpg"
+    ],
+    "description": "Sudaderas baggy hombre. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "sudaderas baggy hombre.pdf"
+  },
+  {
+    "id": "camuflado-de-drill-01",
+    "name": "Camuflado de drill · Negro",
+    "family": "Camuflado de drill",
+    "gender": "hombre",
+    "category": "Pantalones",
+    "subcategory": "Drill cargo",
+    "color": "Negro",
+    "price": 85000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/camuflado-de-drill-01-1.jpg",
+      "assets/camuflado-de-drill-01-2.jpg"
+    ],
+    "description": "Camuflado de drill. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "camuflado de drill.pdf"
+  },
+  {
+    "id": "camuflado-de-drill-02",
+    "name": "Camuflado de drill · Verde militar",
+    "family": "Camuflado de drill",
+    "gender": "hombre",
+    "category": "Pantalones",
+    "subcategory": "Drill cargo",
+    "color": "Verde militar",
+    "price": 85000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/camuflado-de-drill-02-1.jpg",
+      "assets/camuflado-de-drill-02-2.jpg"
+    ],
+    "description": "Camuflado de drill. Variante Verde militar. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "camuflado de drill.pdf"
+  },
+  {
+    "id": "camuflado-de-drill-03",
+    "name": "Camuflado de drill · Beige",
+    "family": "Camuflado de drill",
+    "gender": "hombre",
+    "category": "Pantalones",
+    "subcategory": "Drill cargo",
+    "color": "Beige",
+    "price": 85000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/camuflado-de-drill-03-1.jpg",
+      "assets/camuflado-de-drill-03-2.jpg"
+    ],
+    "description": "Camuflado de drill. Variante Beige. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "camuflado de drill.pdf"
+  },
+  {
+    "id": "baggys-hombre-2-01",
+    "name": "Baggys hombre 2 · Gris desgastado",
+    "family": "Baggys hombre 2",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Gris desgastado",
+    "price": 90000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/baggys-hombre-2-01-1.jpg",
+      "assets/baggys-hombre-2-01-2.jpg"
+    ],
+    "description": "Baggys hombre 2. Variante Gris desgastado. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "baggys hombre 2.pdf"
+  },
+  {
+    "id": "baggys-hombre-2-02",
+    "name": "Baggys hombre 2 · Camuflado",
+    "family": "Baggys hombre 2",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Camuflado",
+    "price": 90000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/baggys-hombre-2-02-1.jpg",
+      "assets/baggys-hombre-2-02-2.jpg"
+    ],
+    "description": "Baggys hombre 2. Variante Camuflado. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "baggys hombre 2.pdf"
+  },
+  {
+    "id": "baggys-hombre-2-03",
+    "name": "Baggys hombre 2 · Azul oscuro",
+    "family": "Baggys hombre 2",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Azul oscuro",
+    "price": 90000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/baggys-hombre-2-03-1.jpg",
+      "assets/baggys-hombre-2-03-2.jpg"
+    ],
+    "description": "Baggys hombre 2. Variante Azul oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "baggys hombre 2.pdf"
+  },
+  {
+    "id": "baggys-hombre-2-04",
+    "name": "Baggys hombre 2 · Negro",
+    "family": "Baggys hombre 2",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Negro",
+    "price": 90000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/baggys-hombre-2-04-1.jpg",
+      "assets/baggys-hombre-2-04-2.jpg"
+    ],
+    "description": "Baggys hombre 2. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "baggys hombre 2.pdf"
+  },
+  {
+    "id": "baggys-hombre-2-05",
+    "name": "Baggys hombre 2 · Gris claro",
+    "family": "Baggys hombre 2",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Gris claro",
+    "price": 90000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/baggys-hombre-2-05-1.jpg",
+      "assets/baggys-hombre-2-05-2.jpg"
+    ],
+    "description": "Baggys hombre 2. Variante Gris claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "baggys hombre 2.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-chamarra-y-princesa-01",
+    "name": "Chaquetas cuero chamarra y princesa · Chamarra negra",
+    "family": "Chaquetas cuero chamarra y princesa",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Chamarra y princesa",
+    "color": "Chamarra negra",
+    "price": 80000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-chamarra-y-princesa-01-1.jpg",
+      "assets/chaquetas-cuero-chamarra-y-princesa-01-2.jpg"
+    ],
+    "description": "Chaquetas cuero chamarra y princesa. Variante Chamarra negra. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero chamarra y princesa.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-chamarra-y-princesa-02",
+    "name": "Chaquetas cuero chamarra y princesa · Princesa negra",
+    "family": "Chaquetas cuero chamarra y princesa",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Chamarra y princesa",
+    "color": "Princesa negra",
+    "price": 80000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-chamarra-y-princesa-02-1.jpg",
+      "assets/chaquetas-cuero-chamarra-y-princesa-02-2.jpg"
+    ],
+    "description": "Chaquetas cuero chamarra y princesa. Variante Princesa negra. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero chamarra y princesa.pdf"
+  },
+  {
+    "id": "palazzo-con-diseno-01",
+    "name": "Palazzo con diseño · Diseño 1",
+    "family": "Palazzo con diseño",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Palazzo con diseño",
+    "color": "Diseño 1",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/palazzo-con-diseno-01-1.jpg",
+      "assets/palazzo-con-diseno-01-2.jpg"
+    ],
+    "description": "Palazzo con diseño. Variante Diseño 1. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "palazzo con diseño.pdf"
+  },
+  {
+    "id": "palazzo-con-diseno-02",
+    "name": "Palazzo con diseño · Diseño 2",
+    "family": "Palazzo con diseño",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Palazzo con diseño",
+    "color": "Diseño 2",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/palazzo-con-diseno-02-1.jpg",
+      "assets/palazzo-con-diseno-02-2.jpg"
+    ],
+    "description": "Palazzo con diseño. Variante Diseño 2. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "palazzo con diseño.pdf"
+  },
+  {
+    "id": "palazzo-con-diseno-03",
+    "name": "Palazzo con diseño · Diseño 3",
+    "family": "Palazzo con diseño",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Palazzo con diseño",
+    "color": "Diseño 3",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/palazzo-con-diseno-03-1.jpg",
+      "assets/palazzo-con-diseno-03-2.jpg"
+    ],
+    "description": "Palazzo con diseño. Variante Diseño 3. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "palazzo con diseño.pdf"
+  },
+  {
+    "id": "palazzo-con-diseno-04",
+    "name": "Palazzo con diseño · Diseño 4",
+    "family": "Palazzo con diseño",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Palazzo con diseño",
+    "color": "Diseño 4",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/palazzo-con-diseno-04-1.jpg",
+      "assets/palazzo-con-diseno-04-2.jpg"
+    ],
+    "description": "Palazzo con diseño. Variante Diseño 4. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "palazzo con diseño.pdf"
+  },
+  {
+    "id": "palazzo-con-diseno-05",
+    "name": "Palazzo con diseño · Diseño 5",
+    "family": "Palazzo con diseño",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Palazzo con diseño",
+    "color": "Diseño 5",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/palazzo-con-diseno-05-1.jpg",
+      "assets/palazzo-con-diseno-05-2.jpg"
+    ],
+    "description": "Palazzo con diseño. Variante Diseño 5. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "palazzo con diseño.pdf"
+  },
+  {
+    "id": "baggy-dama-01",
+    "name": "Baggy dama · Gris lavanda",
+    "family": "Baggy dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Gris lavanda",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/baggy-dama-01-1.jpg",
+      "assets/baggy-dama-01-2.jpg"
+    ],
+    "description": "Baggy dama. Variante Gris lavanda. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Baggy dama.pdf"
+  },
+  {
+    "id": "baggy-dama-02",
+    "name": "Baggy dama · Gris",
+    "family": "Baggy dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Gris",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/baggy-dama-02-1.jpg",
+      "assets/baggy-dama-02-2.jpg"
+    ],
+    "description": "Baggy dama. Variante Gris. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Baggy dama.pdf"
+  },
+  {
+    "id": "baggy-dama-03",
+    "name": "Baggy dama · Azul claro",
+    "family": "Baggy dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Azul claro",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/baggy-dama-03-1.jpg",
+      "assets/baggy-dama-03-2.jpg"
+    ],
+    "description": "Baggy dama. Variante Azul claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Baggy dama.pdf"
+  },
+  {
+    "id": "baggy-dama-04",
+    "name": "Baggy dama · Azul oscuro",
+    "family": "Baggy dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy",
+    "color": "Azul oscuro",
+    "price": 95000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/baggy-dama-04-1.jpg",
+      "assets/baggy-dama-04-2.jpg"
+    ],
+    "description": "Baggy dama. Variante Azul oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Baggy dama.pdf"
+  },
+  {
+    "id": "chaqueta-polar-dama-01",
+    "name": "Chaqueta polar dama · Negro",
+    "family": "Chaqueta polar dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Polar",
+    "color": "Negro",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaqueta-polar-dama-01-1.jpg",
+      "assets/chaqueta-polar-dama-01-2.jpg"
+    ],
+    "description": "Chaqueta polar dama. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta polar dama.pdf"
+  },
+  {
+    "id": "chaqueta-polar-dama-02",
+    "name": "Chaqueta polar dama · Crema",
+    "family": "Chaqueta polar dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Polar",
+    "color": "Crema",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaqueta-polar-dama-02-1.jpg",
+      "assets/chaqueta-polar-dama-02-2.jpg"
+    ],
+    "description": "Chaqueta polar dama. Variante Crema. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta polar dama.pdf"
+  },
+  {
+    "id": "jean-bota-campana-dama-01",
+    "name": "Jean bota campana dama · Azul oscuro",
+    "family": "Jean bota campana dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Bota campana",
+    "color": "Azul oscuro",
+    "price": 80000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-bota-campana-dama-01-1.jpg"
+    ],
+    "description": "Jean bota campana dama. Variante Azul oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean bota campana dama.pdf"
+  },
+  {
+    "id": "jean-bota-campana-dama-02",
+    "name": "Jean bota campana dama · Negro",
+    "family": "Jean bota campana dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Bota campana",
+    "color": "Negro",
+    "price": 80000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-bota-campana-dama-02-1.jpg"
+    ],
+    "description": "Jean bota campana dama. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean bota campana dama.pdf"
+  },
+  {
+    "id": "jean-bota-campana-dama-03",
+    "name": "Jean bota campana dama · Azul claro",
+    "family": "Jean bota campana dama",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Bota campana",
+    "color": "Azul claro",
+    "price": 80000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-bota-campana-dama-03-1.jpg"
+    ],
+    "description": "Jean bota campana dama. Variante Azul claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean bota campana dama.pdf"
+  },
+  {
+    "id": "chalecos-importados-hombre-01",
+    "name": "Chalecos importados hombre · Verde militar",
+    "family": "Chalecos importados hombre",
+    "gender": "hombre",
+    "category": "Chalecos",
+    "subcategory": "Importados",
+    "color": "Verde militar",
+    "price": 110000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chalecos-importados-hombre-01-1.jpg",
+      "assets/chalecos-importados-hombre-01-2.jpg"
+    ],
+    "description": "Chalecos importados hombre. Variante Verde militar. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chalecos importados hombre.pdf"
+  },
+  {
+    "id": "chalecos-importados-hombre-02",
+    "name": "Chalecos importados hombre · Beige",
+    "family": "Chalecos importados hombre",
+    "gender": "hombre",
+    "category": "Chalecos",
+    "subcategory": "Importados",
+    "color": "Beige",
+    "price": 110000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chalecos-importados-hombre-02-1.jpg",
+      "assets/chalecos-importados-hombre-02-2.jpg"
+    ],
+    "description": "Chalecos importados hombre. Variante Beige. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chalecos importados hombre.pdf"
+  },
+  {
+    "id": "chalecos-importados-hombre-03",
+    "name": "Chalecos importados hombre · Negro",
+    "family": "Chalecos importados hombre",
+    "gender": "hombre",
+    "category": "Chalecos",
+    "subcategory": "Importados",
+    "color": "Negro",
+    "price": 110000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chalecos-importados-hombre-03-1.jpg",
+      "assets/chalecos-importados-hombre-03-2.jpg"
+    ],
+    "description": "Chalecos importados hombre. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chalecos importados hombre.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-overzise-hombre-01",
+    "name": "Chaquetas cuero oversize hombre · Vino tinto",
+    "family": "Chaquetas cuero oversize hombre",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Cuero oversize",
+    "color": "Vino tinto",
+    "price": 110000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-overzise-hombre-01-1.jpg",
+      "assets/chaquetas-cuero-overzise-hombre-01-2.jpg"
+    ],
+    "description": "Chaquetas cuero oversize hombre. Variante Vino tinto. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero overzise hombre.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-overzise-hombre-02",
+    "name": "Chaquetas cuero oversize hombre · Negro",
+    "family": "Chaquetas cuero oversize hombre",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Cuero oversize",
+    "color": "Negro",
+    "price": 110000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-overzise-hombre-02-1.jpg",
+      "assets/chaquetas-cuero-overzise-hombre-02-2.jpg"
+    ],
+    "description": "Chaquetas cuero oversize hombre. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero overzise hombre.pdf"
+  },
+  {
+    "id": "chaquetas-cuero-overzise-hombre-03",
+    "name": "Chaquetas cuero oversize hombre · Café",
+    "family": "Chaquetas cuero oversize hombre",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Cuero oversize",
+    "color": "Café",
+    "price": 110000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/chaquetas-cuero-overzise-hombre-03-1.jpg",
+      "assets/chaquetas-cuero-overzise-hombre-03-2.jpg"
+    ],
+    "description": "Chaquetas cuero oversize hombre. Variante Café. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaquetas cuero overzise hombre.pdf"
+  },
+  {
+    "id": "gabanes-de-pano-dama-01",
+    "name": "Gabanes de paño dama · Beige",
+    "family": "Gabanes de paño dama",
+    "gender": "mujer",
+    "category": "Gabanes",
+    "subcategory": "Paño",
+    "color": "Beige",
+    "price": 115000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/gabanes-de-pano-dama-01-1.jpg",
+      "assets/gabanes-de-pano-dama-01-2.jpg"
+    ],
+    "description": "Gabanes de paño dama. Variante Beige. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "gabanes de paño dama.pdf"
+  },
+  {
+    "id": "gabanes-de-pano-dama-02",
+    "name": "Gabanes de paño dama · Negro",
+    "family": "Gabanes de paño dama",
+    "gender": "mujer",
+    "category": "Gabanes",
+    "subcategory": "Paño",
+    "color": "Negro",
+    "price": 115000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/gabanes-de-pano-dama-02-1.jpg",
+      "assets/gabanes-de-pano-dama-02-2.jpg"
+    ],
+    "description": "Gabanes de paño dama. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "gabanes de paño dama.pdf"
+  },
+  {
+    "id": "gabanes-de-pano-dama-03",
+    "name": "Gabanes de paño dama · Gris",
+    "family": "Gabanes de paño dama",
+    "gender": "mujer",
+    "category": "Gabanes",
+    "subcategory": "Paño",
+    "color": "Gris",
+    "price": 115000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/gabanes-de-pano-dama-03-1.jpg",
+      "assets/gabanes-de-pano-dama-03-2.jpg"
+    ],
+    "description": "Gabanes de paño dama. Variante Gris. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "gabanes de paño dama.pdf"
+  },
+  {
+    "id": "gabanes-de-pano-dama-04",
+    "name": "Gabanes de paño dama · Blanco hueso",
+    "family": "Gabanes de paño dama",
+    "gender": "mujer",
+    "category": "Gabanes",
+    "subcategory": "Paño",
+    "color": "Blanco hueso",
+    "price": 115000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/gabanes-de-pano-dama-04-1.jpg",
+      "assets/gabanes-de-pano-dama-04-2.jpg"
+    ],
+    "description": "Gabanes de paño dama. Variante Blanco hueso. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "gabanes de paño dama.pdf"
+  },
+  {
+    "id": "gabanes-de-pano-dama-05",
+    "name": "Gabanes de paño dama · Camel",
+    "family": "Gabanes de paño dama",
+    "gender": "mujer",
+    "category": "Gabanes",
+    "subcategory": "Paño",
+    "color": "Camel",
+    "price": 115000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/gabanes-de-pano-dama-05-1.jpg",
+      "assets/gabanes-de-pano-dama-05-2.jpg"
+    ],
+    "description": "Gabanes de paño dama. Variante Camel. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "gabanes de paño dama.pdf"
+  },
+  {
+    "id": "gabanes-de-pano-dama-06",
+    "name": "Gabanes de paño dama · Terracota",
+    "family": "Gabanes de paño dama",
+    "gender": "mujer",
+    "category": "Gabanes",
+    "subcategory": "Paño",
+    "color": "Terracota",
+    "price": 115000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/gabanes-de-pano-dama-06-1.jpg"
+    ],
+    "description": "Gabanes de paño dama. Variante Terracota. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "gabanes de paño dama.pdf"
+  },
+  {
+    "id": "jean-levanta-cola-skinny-01",
+    "name": "Jean levanta cola skinny · Negro",
+    "family": "Jean levanta cola skinny",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Skinny levanta cola",
+    "color": "Negro",
+    "price": 75000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-levanta-cola-skinny-01-1.jpg",
+      "assets/jean-levanta-cola-skinny-01-2.jpg"
+    ],
+    "description": "Jean levanta cola skinny. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean levanta cola skinny.pdf"
+  },
+  {
+    "id": "jean-levanta-cola-skinny-02",
+    "name": "Jean levanta cola skinny · Azul claro",
+    "family": "Jean levanta cola skinny",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Skinny levanta cola",
+    "color": "Azul claro",
+    "price": 75000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-levanta-cola-skinny-02-1.jpg",
+      "assets/jean-levanta-cola-skinny-02-2.jpg"
+    ],
+    "description": "Jean levanta cola skinny. Variante Azul claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean levanta cola skinny.pdf"
+  },
+  {
+    "id": "jean-levanta-cola-skinny-03",
+    "name": "Jean levanta cola skinny · Azul medio",
+    "family": "Jean levanta cola skinny",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Skinny levanta cola",
+    "color": "Azul medio",
+    "price": 75000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-levanta-cola-skinny-03-1.jpg",
+      "assets/jean-levanta-cola-skinny-03-2.jpg"
+    ],
+    "description": "Jean levanta cola skinny. Variante Azul medio. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean levanta cola skinny.pdf"
+  },
+  {
+    "id": "jean-levanta-cola-skinny-04",
+    "name": "Jean levanta cola skinny · Azul oscuro",
+    "family": "Jean levanta cola skinny",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Skinny levanta cola",
+    "color": "Azul oscuro",
+    "price": 75000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-levanta-cola-skinny-04-1.jpg",
+      "assets/jean-levanta-cola-skinny-04-2.jpg"
+    ],
+    "description": "Jean levanta cola skinny. Variante Azul oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean levanta cola skinny.pdf"
+  },
+  {
+    "id": "chaqueta-efecto-cuero-dama-01",
+    "name": "Chaqueta efecto cuero dama · Rosado claro",
+    "family": "Chaqueta efecto cuero dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Efecto cuero",
+    "color": "Rosado claro",
+    "price": 90000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaqueta-efecto-cuero-dama-01-1.jpg",
+      "assets/chaqueta-efecto-cuero-dama-01-2.jpg"
+    ],
+    "description": "Chaqueta efecto cuero dama. Variante Rosado claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta efecto cuero dama.pdf"
+  },
+  {
+    "id": "chaqueta-efecto-cuero-dama-02",
+    "name": "Chaqueta efecto cuero dama · Negro",
+    "family": "Chaqueta efecto cuero dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Efecto cuero",
+    "color": "Negro",
+    "price": 90000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaqueta-efecto-cuero-dama-02-1.jpg",
+      "assets/chaqueta-efecto-cuero-dama-02-2.jpg"
+    ],
+    "description": "Chaqueta efecto cuero dama. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta efecto cuero dama.pdf"
+  },
+  {
+    "id": "chaqueta-efecto-cuero-dama-03",
+    "name": "Chaqueta efecto cuero dama · Beige",
+    "family": "Chaqueta efecto cuero dama",
+    "gender": "mujer",
+    "category": "Chaquetas",
+    "subcategory": "Efecto cuero",
+    "color": "Beige",
+    "price": 90000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/chaqueta-efecto-cuero-dama-03-1.jpg",
+      "assets/chaqueta-efecto-cuero-dama-03-2.jpg"
+    ],
+    "description": "Chaqueta efecto cuero dama. Variante Beige. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "chaqueta efecto cuero dama.pdf"
+  },
+  {
+    "id": "columbia-importada-01",
+    "name": "Columbia importada · Verde y negro",
+    "family": "Columbia importada",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Columbia importada",
+    "color": "Verde y negro",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/columbia-importada-01-1.jpg",
+      "assets/columbia-importada-01-2.jpg"
+    ],
+    "description": "Columbia importada. Variante Verde y negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "columbia importada.pdf"
+  },
+  {
+    "id": "columbia-importada-02",
+    "name": "Columbia importada · Gris y negro",
+    "family": "Columbia importada",
+    "gender": "hombre",
+    "category": "Chaquetas",
+    "subcategory": "Columbia importada",
+    "color": "Gris y negro",
+    "price": 120000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/columbia-importada-02-1.jpg",
+      "assets/columbia-importada-02-2.jpg"
+    ],
+    "description": "Columbia importada. Variante Gris y negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "columbia importada.pdf"
+  },
+  {
+    "id": "jean-baggy-bordado-01",
+    "name": "Jean baggy bordado · Gris claro",
+    "family": "Jean baggy bordado",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy bordado",
+    "color": "Gris claro",
+    "price": 110000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-baggy-bordado-01-1.jpg",
+      "assets/jean-baggy-bordado-01-2.jpg"
+    ],
+    "description": "Jean baggy bordado. Variante Gris claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean baggy bordado.pdf"
+  },
+  {
+    "id": "jean-baggy-bordado-02",
+    "name": "Jean baggy bordado · Gris oscuro",
+    "family": "Jean baggy bordado",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy bordado",
+    "color": "Gris oscuro",
+    "price": 110000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-baggy-bordado-02-1.jpg",
+      "assets/jean-baggy-bordado-02-2.jpg"
+    ],
+    "description": "Jean baggy bordado. Variante Gris oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean baggy bordado.pdf"
+  },
+  {
+    "id": "jean-baggy-bordado-03",
+    "name": "Jean baggy bordado · Azul claro",
+    "family": "Jean baggy bordado",
+    "gender": "mujer",
+    "category": "Jeans",
+    "subcategory": "Baggy bordado",
+    "color": "Azul claro",
+    "price": 110000,
+    "sizes": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "images": [
+      "assets/jean-baggy-bordado-03-1.jpg",
+      "assets/jean-baggy-bordado-03-2.jpg"
+    ],
+    "description": "Jean baggy bordado. Variante Azul claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "jean baggy bordado.pdf"
+  },
+  {
+    "id": "busos-cuello-tortuga-01",
+    "name": "Busos cuello tortuga · Verde militar",
+    "family": "Busos cuello tortuga",
+    "gender": "hombre",
+    "category": "Buzos",
+    "subcategory": "Cuello tortuga",
+    "color": "Verde militar",
+    "price": 65000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/busos-cuello-tortuga-01-1.jpg"
+    ],
+    "description": "Busos cuello tortuga. Variante Verde militar. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "busos cuello tortuga.pdf"
+  },
+  {
+    "id": "busos-cuello-tortuga-02",
+    "name": "Busos cuello tortuga · Negro",
+    "family": "Busos cuello tortuga",
+    "gender": "hombre",
+    "category": "Buzos",
+    "subcategory": "Cuello tortuga",
+    "color": "Negro",
+    "price": 65000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/busos-cuello-tortuga-02-1.jpg"
+    ],
+    "description": "Busos cuello tortuga. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "busos cuello tortuga.pdf"
+  },
+  {
+    "id": "busos-cuello-tortuga-03",
+    "name": "Busos cuello tortuga · Blanco",
+    "family": "Busos cuello tortuga",
+    "gender": "hombre",
+    "category": "Buzos",
+    "subcategory": "Cuello tortuga",
+    "color": "Blanco",
+    "price": 65000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/busos-cuello-tortuga-03-1.jpg"
+    ],
+    "description": "Busos cuello tortuga. Variante Blanco. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "busos cuello tortuga.pdf"
+  },
+  {
+    "id": "busos-cuello-tortuga-04",
+    "name": "Busos cuello tortuga · Vino tinto",
+    "family": "Busos cuello tortuga",
+    "gender": "hombre",
+    "category": "Buzos",
+    "subcategory": "Cuello tortuga",
+    "color": "Vino tinto",
+    "price": 65000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/busos-cuello-tortuga-04-1.jpg"
+    ],
+    "description": "Busos cuello tortuga. Variante Vino tinto. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "busos cuello tortuga.pdf"
+  },
+  {
+    "id": "busos-cuello-tortuga-05",
+    "name": "Busos cuello tortuga · Azul",
+    "family": "Busos cuello tortuga",
+    "gender": "hombre",
+    "category": "Buzos",
+    "subcategory": "Cuello tortuga",
+    "color": "Azul",
+    "price": 65000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "assets/busos-cuello-tortuga-05-1.jpg"
+    ],
+    "description": "Busos cuello tortuga. Variante Azul. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "busos cuello tortuga.pdf"
+  },
+  {
+    "id": "jeans-entubados-hombre-edit-1-01",
+    "name": "Jeans entubados hombre · Negro",
+    "family": "Jeans entubados hombre",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Entubados",
+    "color": "Negro",
+    "price": 75000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/jeans-entubados-hombre-edit-1-01-1.jpg",
+      "assets/jeans-entubados-hombre-edit-1-01-2.jpg"
+    ],
+    "description": "Jeans entubados hombre. Variante Negro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Jeans Entubados Hombre Edit(1).pdf"
+  },
+  {
+    "id": "jeans-entubados-hombre-edit-1-02",
+    "name": "Jeans entubados hombre · Azul oscuro",
+    "family": "Jeans entubados hombre",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Entubados",
+    "color": "Azul oscuro",
+    "price": 75000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/jeans-entubados-hombre-edit-1-02-1.jpg",
+      "assets/jeans-entubados-hombre-edit-1-02-2.jpg"
+    ],
+    "description": "Jeans entubados hombre. Variante Azul oscuro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Jeans Entubados Hombre Edit(1).pdf"
+  },
+  {
+    "id": "jeans-entubados-hombre-edit-1-03",
+    "name": "Jeans entubados hombre · Azul claro",
+    "family": "Jeans entubados hombre",
+    "gender": "hombre",
+    "category": "Jeans",
+    "subcategory": "Entubados",
+    "color": "Azul claro",
+    "price": 75000,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "images": [
+      "assets/jeans-entubados-hombre-edit-1-03-1.jpg",
+      "assets/jeans-entubados-hombre-edit-1-03-2.jpg"
+    ],
+    "description": "Jeans entubados hombre. Variante Azul claro. Consulta disponibilidad de talla y color antes de finalizar el pedido.",
+    "source": "Jeans Entubados Hombre Edit(1).pdf"
+  }
+]
