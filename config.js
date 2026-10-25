@@ -6,7 +6,7 @@ window.STORE_CONFIG = {
   whatsappNumber: '573153808575',
 
   // Foto del local (la agregaremos después)
-  storePhoto: '',
+  storePhoto: 'assets/foto-local.jpg',
 
   // Ubicación en Google Maps
   mapUrl: 'https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Sabana+Plaza+Bogota+Calle+13+Carrera+19',
